@@ -1,0 +1,10 @@
+PyQt5
+scikit-learn
+numpy
+openpyxl
+python-docx
+reportlab
+PyMuPDF
+requests
+pytesseract
+Pillow

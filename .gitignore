@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+file_generator/generated_test_files/
+cache/
+poppler/
